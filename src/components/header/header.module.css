@@ -1,0 +1,22 @@
+.headerTop {
+  height: 60px;
+  width: 100%;
+  background-color: #a98c64;
+  display: flex;
+  gap: 179px;
+  align-items: center;
+  justify-content: center;
+}
+.headerText {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--primary-white-FFFFFF);
+  /* color: #ffffff; */
+}
+.headerTextUnderline {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--primary-white-FFFFFF);
+  /* color: #ffffff; */
+  text-decoration: underline;
+}
